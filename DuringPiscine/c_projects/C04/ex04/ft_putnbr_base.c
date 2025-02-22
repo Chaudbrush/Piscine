@@ -6,7 +6,7 @@
 /*   By: vloureir <vloureir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/06 07:58:09 by vloureir          #+#    #+#             */
-/*   Updated: 2025/02/06 09:57:13 by vloureir         ###   ########.fr       */
+/*   Updated: 2025/02/22 18:35:38 by vloureir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,7 @@ int	check_base(char *base, int len)
 	int	j;
 
 	i = 0;
-	while(base[i] && i < len)
+	while (base[i] && i < len)
 	{
 		j = i + 1;
 		if (base[i] == '-' || base[i] == '+')
