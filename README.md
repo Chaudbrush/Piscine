@@ -1,5 +1,5 @@
 ## About
-Sharing my personal progress and experience with 42 School Piscine, which started 20th January 2025 and ended 14th February 2025. Had close to none experience before joining, it was a challenging, demanding and fulfilling month. Everything I did during Piscine is in the [DuringPiscine](https://github.com/Chaudbrush/Piscine_2025/tree/main/DuringPiscine) After finishing the Piscine I came back for some exercises I wanted to complete, they are in the [AfterPiscine] folder.
+Sharing my personal progress and experience with 42 School Piscine, which started 20th January 2025 and ended 14th February 2025. Had close to none experience before joining, it was a challenging, demanding and fulfilling month. Everything I did during Piscine is in the [DuringPiscine](https://github.com/Chaudbrush/Piscine/tree/main/DuringPiscine) After finishing the Piscine I came back for some exercises I wanted to complete, they are in the [AfterPiscine](https://github.com/Chaudbrush/Piscine/tree/main/AfterPiscine) folder.
 
 ---
 
