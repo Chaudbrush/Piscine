@@ -6,7 +6,7 @@
 /*   By: vloureir <vloureir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/05 10:46:09 by vloureir          #+#    #+#             */
-/*   Updated: 2025/03/05 13:57:08 by vloureir         ###   ########.fr       */
+/*   Updated: 2025/03/05 14:16:53 by vloureir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -113,8 +113,21 @@ void	ft_queens(char array[BOARD][BOARD], int index)
 
 int	ft_ten_queens_puzzle(void)
 {
+	int		i;
+	int		j;
 	char	array[BOARD][BOARD];
 
+	i = 0;
+	while (i < 10)
+	{
+		j = 0;
+		while (j < 10)
+		{
+			array[i][j] = 0;
+			j++;
+		}
+		i++;
+	}
 	ft_queens(array, 0);
 	return (0);
 }
